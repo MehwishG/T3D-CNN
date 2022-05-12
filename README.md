@@ -31,7 +31,7 @@ The source code is for training/evaluating on the Human3.6M dataset. Our code is
 
 **Evaluate Pre-trained Model:**
 
-In order to evaluate our pre-trained: [Pre-trainedModel](https://drive.google.com/drive/folders/1gHfyf6ufbVW2nh-9kS5mmUNSy8KN_bPb?usp=sharing )
+In order to evaluate our pre-trained: [Pre-trainedModel for 16 missing joints](https://drive.google.com/drive/folders/1gHfyf6ufbVW2nh-9kS5mmUNSy8KN_bPb?usp=sharing )
 
 Run:
 
