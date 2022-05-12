@@ -1,4 +1,4 @@
-#Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework (IEEE Transaction on Multimedia , 2022)
+***Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework (IEEE Transaction on Multimedia , 2022)***
 
 This project is an implementation of paper: https://ieeexplore.ieee.org/document/9732169 ,
 
